@@ -8,7 +8,6 @@ This Python-based network sniffer listens to the network interface, captures pac
 ### 📖 Features
 - Real-time packet capturing ⏳
 - Protocol filtering (TCP, UDP, ICMP, etc.) 🔄
-- Detailed packet analysis 📊
 - Simple and clean code 🔧
 
 ### 🚀 Why Build This?
